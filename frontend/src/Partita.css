@@ -1,0 +1,15 @@
+.card-custom {
+  max-width: 128px;
+}
+
+.container {
+  max-width: 100%;
+}
+
+.fit-content {
+  width: fit-content !important;
+}
+
+.pt-500 {
+  padding-top: 500px;
+}
